@@ -1,5 +1,3 @@
-# common functions
-
 import sys
 import os
 from gevent.pool import Pool

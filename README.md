@@ -1,4 +1,6 @@
-# subDomainsBrute 1.2 #
+# subDomainsBrute 1.2 Fixed #
+
+Forked from https://github.com/lijiejie/subDomainsBrute
 
 A fast sub domain brute tool for pentesters.
 
@@ -6,9 +8,11 @@ A fast sub domain brute tool for pentesters.
 
 You can get older versions via [https://github.com/lijiejie/subDomainsBrute/releases](https://github.com/lijiejie/subDomainsBrute/releases)
 
-
 ## Change Log 
 
+* [2019-12-8]
+  * Add Python3 support
+  * Fix code format
 * [2019-05-19] 
   * Add wildcard test
   * Scan faster and more reliable, now can brute up to 3000 domains per second
@@ -51,3 +55,5 @@ You can get older versions via [https://github.com/lijiejie/subDomainsBrute/rele
 ![screenshot](screenshot.png)
 
 From [http://www.lijiejie.com](http://www.lijiejie.com)
+
+Modify [https://skactor.tk](https://skactor.tk)
